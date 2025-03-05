@@ -1,5 +1,4 @@
 # my-research-code
-# my-research-code
 
 ## Overview
 This repository contains code for action recognition research using skeleton-based data. The purpose is to classify human activities using deep learning techniques.
